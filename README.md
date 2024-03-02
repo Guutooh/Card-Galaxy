@@ -22,15 +22,6 @@ Este projeto foi desenvolvido utilizando:
 - HTML
 - CSS
 
-## Quer contribuir?
-
-Para contribuir com este projeto, siga os passos abaixo:
-
-1. Faça um fork do repositório no GitHub.
-2. Crie uma nova branch para suas alterações.
-3. Realize suas modificações.
-4. Envie um pull request para a branch principal.
-
 ## Licença
 
 Este projeto está sob a licença MIT, permitindo uso livre.
