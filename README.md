@@ -1,5 +1,10 @@
 # Projeto: As Maiores Galáxias
 
+
+![image](https://github.com/Guutooh/Card-Galaxy/assets/59242985/30cf7631-5176-4cf2-acc6-0b7df25a6624)
+
+
+
 ## Descrição
 
 Este projeto visa explorar as maiores e mais intrigantes galáxias conhecidas pelo homem, mergulhando profundamente em suas características únicas e fascinantes curiosidades. Utilizando um design intuitivo e visualmente cativante, o projeto apresenta informações ricas sobre seis notáveis galáxias do universo:
@@ -22,8 +27,11 @@ Este projeto foi desenvolvido utilizando:
 - HTML
 - CSS
 
+
+### About
+- Projeto desenvolvido no Stage 03 do Explorer - RocketSeat
+
 ## Licença
 
-Este projeto está sob a licença MIT, permitindo uso livre.
-
+Este projeto está sob a licença MIT.
 
